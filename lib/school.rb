@@ -26,7 +26,6 @@ class School
    new_hash = {} 
    roster.each do |key, value| 
      new_hash[key]= value.sort
-binding.pry
     end
     new_hash
     end
