@@ -28,6 +28,7 @@ class School
      new_hash[key]= value.sort
 binding.pry
     end
+    new_hash
     end
       
   
